@@ -1,3 +1,3 @@
-# ![node](resources/images/node.png "")
+# ![node](../resources/images/node.png "")
 ---
 ## Express
