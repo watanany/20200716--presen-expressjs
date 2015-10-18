@@ -1,4 +1,4 @@
-##  middlewares
+##  豊富なMiddleware
 
 * path
 * serve-favicon
