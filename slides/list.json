@@ -3,5 +3,6 @@
     "express-generator.md",
     "what.md",
     "why.md",
+    "middlewares.md",
     ["appendix.md"]
 ]
