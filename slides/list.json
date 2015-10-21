@@ -30,25 +30,20 @@
     ],
 
     [
-        "05_routing/01_popular.md",
-        "05_routing/02_others.md"
+      "05_express-generator/00_caption.md",
+      "05_express-generator/01_video.md"
     ],
 
-    [
-        "05_middleware/01_list.md"
-    ],
-
-    "express-generator.md",
-
-
-    "slide5.md",
+    "middleware.md",
 
     [
-        "socket.io/00_caption.md"
+        "socket.io/00_caption.md",
+        "socket.io/01_tree.md",
+        "socket.io/02_app.md",
+        "socket.io/03_www.md"
     ],
 
     "conclusion.md",
-    "summary.md",
 
     [
         "99_appendix/00_caption.md",
