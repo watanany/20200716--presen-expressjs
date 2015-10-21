@@ -1,11 +1,11 @@
 ##  express-generator
 
 ```sh
-1. express myapp && cd myapp
+1. express myapp
 ```
 
 ```sh
-2. npm install
+2. cd myapp && npm install
 ```
 
 ```sh
