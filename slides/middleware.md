@@ -1,0 +1,11 @@
+##  Middleware
+
+| Middleware        | 効果                               |
+|-------------------|------------------------------------|
+| static            | 静的ファイルを配信する             |
+| serve-favicon     | faviconを配信する                  |
+| morgan            | HTTPリクエストのログを出力する     |
+| cookie-parser     | クッキー文字列を解析する           |
+| body-parser       | HTTPリクエストを解析する           |
+| less-middleware   | LessをCSSに変換する                |
+| coffee-middleware | JavaScriptをCoffeeScriptに変換する |
