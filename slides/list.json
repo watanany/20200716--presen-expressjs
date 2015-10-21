@@ -1,53 +1,70 @@
 [
-    "00_index.md",
-    "01_schedule.md",
+  "00_index.md",
+  "01_schedule.md",
 
-    [
-        "02_what/00_caption.md",
-        "02_what/01_feature.md",
-        "02_what/02_feature.md"
-    ],
+  [
+    "02_what/01.md",
+    "02_what/02.md",
+    "02_what/03.md",
+    "02_what/04.md"
+  ],
 
-    [
-        "03_farce/00_farce.md",
-        "03_farce/01_farce.md",
-        "03_farce/02_helloworld/00_caption.md",
-        "03_farce/02_helloworld/01_only_nodejs.md",
-        "03_farce/03_farce.md",
-        "03_farce/04_farce.md",
-        "03_farce/05_farce.md",
-        "03_farce/06_routing_nodejs.md",
-        "03_farce/07_farce.md",
-        "03_farce/08_farce.md",
-        "03_farce/99_farce.md"
-    ],
+  [
+    "03_farce/01.md",
+    "03_farce/02.md",
+    "03_farce/03_helloworld/01.md",
+    "03_farce/03_helloworld/02.md",
+    "03_farce/04.md",
+    "03_farce/05.md",
+    "03_farce/06.md",
+    "03_farce/07.md",
+    "03_farce/08.md",
+    "03_farce/09.md",
+    "03_farce/99.md"
+  ],
 
-    [
-        "04_express/00_caption.md",
-        "04_express/02_helloworld.md",
-        "04_express/03_routing.md",
-        "04_express/04_view.md"
-    ],
+  [
+    "04_express/01.md",
+    "04_express/02.md",
+    "04_express/03.md",
+    "04_express/04.md"
+  ],
 
-    [
-      "05_express-generator/00_caption.md",
-      "05_express-generator/01_video.md"
-    ],
+  [
+    "05_express-generator/01.md",
+    "05_express-generator/02.md"
+  ],
 
-    "middleware.md",
+  [
+    "06_middleware/01.md",
+    "06_middleware/02.md",
+    "06_middleware/03.md",
+    "06_middleware/04.md",
+    "06_middleware/05.md",
+    "06_middleware/06.md",
+    "06_middleware/07.md",
+    "06_middleware/08.md",
+    "06_middleware/09.md",
+    "06_middleware/10.md",
+    "06_middleware/11.md"
+  ],
 
-    [
-        "socket.io/00_caption.md",
-        "socket.io/01_tree.md",
-        "socket.io/02_app.md",
-        "socket.io/03_www.md"
-    ],
+  [
+    "07_socket.io/01.md",
+    "07_socket.io/02.md",
+    "07_socket.io/03.md",
+    "07_socket.io/04.md"
+  ],
 
-    "conclusion.md",
+  [
+    "08_others/01.md",
+    "08_others/02.md",
+    "08_others/03.md"
+  ],
 
-    [
-        "99_appendix/00_caption.md",
-        "99_appendix/01_anothers.md",
-        "99_appendix/02_LTS.md"
-    ]
+  [
+    "99_appendix/01.md",
+    "99_appendix/02.md",
+    "99_appendix/03.md"
+  ]
 ]
