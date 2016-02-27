@@ -1,7 +1,70 @@
 [
-    "index.md",
-    "express-generator.md",
-    "what.md",
-    "why.md",
-    ["appendix.md"]
+  "00_index.md",
+  "01_schedule.md",
+
+  [
+    "02_what/01.md",
+    "02_what/02.md",
+    "02_what/03.md",
+    "02_what/04.md"
+  ],
+
+  [
+    "03_farce/01.md",
+    "03_farce/02.md",
+    "03_farce/03_helloworld/01.md",
+    "03_farce/03_helloworld/02.md",
+    "03_farce/04.md",
+    "03_farce/05.md",
+    "03_farce/06.md",
+    "03_farce/07.md",
+    "03_farce/08.md",
+    "03_farce/09.md",
+    "03_farce/99.md"
+  ],
+
+  [
+    "04_express/01.md",
+    "04_express/02.md",
+    "04_express/03.md",
+    "04_express/04.md"
+  ],
+
+  [
+    "05_express-generator/01.md",
+    "05_express-generator/02.md"
+  ],
+
+  [
+    "06_middleware/01.md",
+    "06_middleware/02.md",
+    "06_middleware/03.md",
+    "06_middleware/04.md",
+    "06_middleware/05.md",
+    "06_middleware/06.md",
+    "06_middleware/07.md",
+    "06_middleware/08.md",
+    "06_middleware/09.md",
+    "06_middleware/10.md",
+    "06_middleware/11.md"
+  ],
+
+  [
+    "07_socket.io/01.md",
+    "07_socket.io/02.md",
+    "07_socket.io/03.md",
+    "07_socket.io/04.md"
+  ],
+
+  [
+    "08_others/01.md",
+    "08_others/02.md",
+    "08_others/03.md"
+  ],
+
+  [
+    "99_appendix/01.md",
+    "99_appendix/02.md",
+    "99_appendix/03.md"
+  ]
 ]
